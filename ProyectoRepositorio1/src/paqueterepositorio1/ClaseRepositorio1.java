@@ -32,10 +32,7 @@ public ClaseRepositorio1() {
 	
 	private void estrdhcgvjhb() {
 		
-<<<<<<< HEAD
-=======
 		System.out.println("ifgjtjhjisryg");
->>>>>>> refs/heads/Rama1
 		System.out.println("ifgisryg");
 	}
 	
