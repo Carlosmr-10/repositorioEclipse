@@ -13,7 +13,7 @@ public ClaseRepositorio1() {
 		
 	private void Ennove() {
 		
-		System.out.println("Ennove");
+		System.out.println("Ennave");
 	}
 	
 	private void nvhfktd() {
