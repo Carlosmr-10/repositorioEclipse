@@ -18,6 +18,7 @@ public ClaseRepositorio1() {
 	private void Ennove() {
 		
 		System.out.println("Enclave");
+		System.out.println("Ennave");
 	}
 	
 	private void nvhfktd() {
