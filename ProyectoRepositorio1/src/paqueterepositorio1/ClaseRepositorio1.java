@@ -5,6 +5,10 @@ public class ClaseRepositorio1 {
 	public ClaseRepositorio1() {
 		
 	}
+	
+	private void kuSDJSBF() {
+		
+	}
 
 	private void master() {
 		
