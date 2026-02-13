@@ -32,6 +32,7 @@ public ClaseRepositorio1() {
 	
 	private void estrdhcgvjhb() {
 		
+		System.out.println("ifgisryg");
 	}
 	
 	private void utrytubkelkf() {
