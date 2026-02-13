@@ -6,7 +6,13 @@ public class ClaseRepositorio1 {
 		
 	}
 
+	private void master() {
+		
+		System.out.println("aleddoafb");
+	}
+		
 	private void Ennove() {
+		
 		System.out.println("Ennove");
 	}
 	
