@@ -2,7 +2,7 @@ package paqueterepositorio1;
 
 public class ClaseRepositorio1 {
 	
-	public ClaseRepositorio1() {
+public ClaseRepositorio1() {
 		
 	}
 	
@@ -20,8 +20,20 @@ public class ClaseRepositorio1 {
 		System.out.println("Ennove");
 	}
 	
+	private void nvhfktd() {
+		
+	}
+	
 	private void pruebaMerge() {
 		
 		System.out.println("prueba merge");
+	}
+	
+	private void estrdhcgvjhb() {
+		
+	}
+	
+	private void utrytubkelkf() {
+		
 	}
 }
